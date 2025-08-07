@@ -57,6 +57,6 @@ The application will open in a new tab in your web browser.
 
 
 
-![Spam Classifier Demo](screenshot.png)
+
 
 
